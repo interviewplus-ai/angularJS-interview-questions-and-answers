@@ -1,6 +1,16 @@
 # AngularJS Interview Questions And Answers
+
 Most targeted up-to-date AngularJS interview questions and answers list
 
+## Table of Contents
+
+1. [What is AngularJS?](#what-is-angularjs)
+2. [What is data binding in AngularJS?](#what-is-data-binding-in-angularjs)
+3. [What is an AngularJS directive?](#what-is-an-angularjs-directive)
+4. [Explain AngularJS directives ng-repeat and ng-if.](#explain-angularjs-directives-ng-repeat-and-ng-if)
+5. [What is AngularJS service and how to create one?](#what-is-angularjs-service-and-how-to-create-one)
+6. [What are AngularJS filters and provide an example.](#what-are-angularjs-filters-and-provide-an-example)
+7. [Explain the concept of dependency injection in AngularJS.](#explain-the-concept-of-dependency-injection-in-angularjs)
 
 ## 1. What is AngularJS?
 
