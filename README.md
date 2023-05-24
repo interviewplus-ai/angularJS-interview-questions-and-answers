@@ -11,6 +11,9 @@ Most targeted up-to-date AngularJS interview questions and answers list
 5. [What is AngularJS service and how to create one?](#5-what-is-angularjs-service-and-how-to-create-one)
 6. [What are AngularJS filters and provide an example.](#6-what-are-angularjs-filters-and-provide-an-example)
 7. [Explain the concept of dependency injection in AngularJS.](#7-explain-the-concept-of-dependency-injection-in-angularjs)
+- [Whats more?](#whats-more)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## 1. What is AngularJS?
 
